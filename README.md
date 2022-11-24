@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[<img src="https://cdn-icons-png.flaticon.com/128/1055/1055666.png" alt="Portfolio"][portfolio]
+[<img src="https://cdn-icons-png.flaticon.com/128/1055/1055666.png" alt="Portfolio"/>][portfolio]
 
 [project1]: https://next-vacation.netlify.app/
 [project2]: https://film-blend.netlify.app/
