@@ -13,7 +13,7 @@
 [dribble]: https://dribbble.com/easyblend85
 
 <br>
-<br>
+<hr>
 
 ### About This Dude 😄
 
