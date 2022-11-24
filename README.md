@@ -1,8 +1,8 @@
 # Hi there 👋
 
-[<img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px" alt="Portfolio"/>][linkedin]
-[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="50px" alt="Portfolio"/>][twitter]
-[<img src="https://cdn-icons-png.flaticon.com/128/3938/3938122.png" width="50px" alt="Portfolio"/>][dribble]
+[<img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px" alt="Portfolio" align="left"/>][linkedin]
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="50px" alt="Portfolio" align="left"/>][twitter]
+[<img src="https://cdn-icons-png.flaticon.com/128/3938/3938122.png" width="50px" alt="Portfolio" align="left"/>][dribble]
 
 
 [project1]: https://next-vacation.netlify.app/
