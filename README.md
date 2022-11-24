@@ -22,9 +22,12 @@
 - 👯 I’m looking to collaborate on any cool project
 - 🤔 I’m looking for help with my first job
 - 💬 Ask me about anything
-
 - ⚡ Fun fact: I'm a descendant of Adam
 
+## Some of my works
+[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][portfolio2]
+[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][portfolio1]
+[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][portfolio3]
 
 ### Connnect with ME!
 
