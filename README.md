@@ -27,11 +27,11 @@
 
 ## Some of my works
 
-[<img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" width="40px" align="left" alt="logo"/>][project2] Film-Blend
+[<img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" width="40px"  alt="logo"/>][project2] Film-Blend
 <br>
-[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" width="40px" align="left" alt="logo"/>][project1] Next-Vacation
+[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" width="40px" alt="logo"/>][project1] Next-Vacation
 <br>
-[<img src="https://cdn-icons-png.flaticon.com/128/1055/1055666.png" width="40px" align="left" alt="logo"/>][project3] TreasuryBill Calculator
+[<img src="https://cdn-icons-png.flaticon.com/128/1055/1055666.png" width="40px" alt="logo"/>][project3] TreasuryBill Calculator
 <br>
 ### Connnect with ME!
 
