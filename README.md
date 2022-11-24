@@ -1,7 +1,8 @@
 # Hi there 👋
 
    ### I'm Emmanuel... AKA EasyBlend <img src="https://cdn-icons-png.flaticon.com/128/743/743287.png" width="30px" alt="cool Emoji"/>
-![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://easyblend.github.io/PORTFOLIO/portfolio/LOGO2.png)
+
+
 [project1]: https://next-vacation.netlify.app/
 [project3]: https://treasury-bill-calculator.netlify.app/
 [project2]: https://film-blend.netlify.app/
