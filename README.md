@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### I'm Emmanuel... AKA EasyBlend <img src="https://cdn-icons-png.flaticon.com/128/743/743287.png" width="30px" alt="cool Emoji"/>
+             #### I'm Emmanuel... AKA EasyBlend <img src="https://cdn-icons-png.flaticon.com/128/743/743287.png" width="30px" alt="cool Emoji"/>
 
 
 [project1]: https://next-vacation.netlify.app/
