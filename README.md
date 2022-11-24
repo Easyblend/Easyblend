@@ -4,6 +4,7 @@
 
 
 [project1]: https://next-vacation.netlify.app/
+[project3]: https://treasury-bill-calculator.netlify.app/
 [project2]: https://film-blend.netlify.app/
 [linkedin]: https://www.linkedin.com/in/emmanuel-kumah-692431224/
 [portfolio]: https://easyblend.github.io/PORTFOLIO/portfolio/
@@ -25,9 +26,9 @@
 - ⚡ Fun fact: I'm a descendant of Adam
 
 ## Some of my works
-[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][portfolio2]
-[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][portfolio1]
-[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][portfolio3]
+[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][project2]
+[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][project1]
+[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][project3]
 
 ### Connnect with ME!
 
