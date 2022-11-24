@@ -25,16 +25,13 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: I'm a descendant of Adam
 
-## Some of my works
+## My favorite Projects
 
 [<img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" width="40px"  alt="logo"/>][project2] 
 ### Film-Blend
 <br>
-<br>
-
 [<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" width="40px" alt="logo"/>][project1] 
 ### Next-Vacation
-<br>
 <br>
 [<img src="https://cdn-icons-png.flaticon.com/128/1055/1055666.png" width="40px" alt="logo"/>][project3] 
 ### TreasuryBill Calculator
