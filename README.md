@@ -26,9 +26,9 @@
 - ⚡ Fun fact: I'm a descendant of Adam
 
 ## Some of my works
-[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][project2]
-[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][project1]
-[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" alt="logo"/>][project3]
+[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" width="40px" align="left" alt="logo"/>][project2]
+[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" width="40px" align="left" alt="logo"/>][project1]
+[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" width="40px" align="left" alt="logo"/>][project3]
 
 ### Connnect with ME!
 
