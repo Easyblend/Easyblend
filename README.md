@@ -26,10 +26,10 @@
 - ⚡ Fun fact: I'm a descendant of Adam
 
 ## Some of my works
-[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" width="40px" align="left" alt="logo"/>][project2]
+[<img src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" width="40px" align="left" alt="logo"/>][project2]
 [<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" width="40px" align="left" alt="logo"/>][project1]
-[<img src="https://cdn-icons-png.flaticon.com/128/922/922699.png" width="40px" align="left" alt="logo"/>][project3]
-
+[<img src="https://cdn-icons-png.flaticon.com/128/1055/1055666.png" width="40px" align="left" alt="logo"/>][project3]
+<br>
 ### Connnect with ME!
 
 [<img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="40px" alt="Portfolio" align="left"/>][linkedin]
