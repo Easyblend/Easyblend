@@ -18,12 +18,12 @@
 
 ### Some fun information
 
-- 🔭 I’m currently working on becoming a great frontend Developer
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on becoming a great Software Engineer
+- 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on any cool project
-- 🤔 I’m looking for help with my first job
+- 🤔 I’m looking for an end of studies internship
 - 💬 Ask me about anything
-- ⚡ Fun fact: I'm a descendant of Adam
+- ⚡ Fun fact: I speak french
 
 
 ## 🛠 Skills
